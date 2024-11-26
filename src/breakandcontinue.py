@@ -17,3 +17,8 @@ print(obj.count('h'))
 # encoding
 a = 'hy my name is hasnain'
 print(a.encode())
+
+a = 1
+b = 2
+print(f'The sum of 1 +2 is {a + b}')
+
