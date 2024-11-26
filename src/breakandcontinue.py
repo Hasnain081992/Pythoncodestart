@@ -1,7 +1,19 @@
-for n in range(2,12):
-    for x in range(2,n):
-        if n % x ==0:
-            print(f"{n} is equal to {x} * {n//x}")
-            break
+a = 'hasnain'
+print(a.capitalize())
 
-#  
+b = 'WEdnesday'
+print(b.capitalize())
+print(b.casefold())
+
+# CENTRE
+text = 'hello'
+print(text.center(80))
+
+print(text.count('el'))
+
+obj = 'Hellh horld'
+print(obj.count('h'))
+
+# encoding
+a = 'hy my name is hasnain'
+print(a.encode())
