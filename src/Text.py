@@ -49,3 +49,5 @@ print(list3)
 list4 = [56,67,67,'Hasnain']
 print(list4)
 print(len(list4))
+
+a = int(input('enter a number'))
