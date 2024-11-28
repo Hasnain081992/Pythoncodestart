@@ -1,4 +1,4 @@
-# chapter 3.2  list
+# chapter 3.2  list  ok
 
 print("Doesn't")
 print("first line \n   second line")
